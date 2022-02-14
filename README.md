@@ -10,6 +10,7 @@
 <img src="https://img.icons8.com/officel/48/000000/react.png"/>  
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</br>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
